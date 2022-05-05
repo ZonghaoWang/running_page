@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+<name></name>
+<desc>行者骑行软件</desc>
+<time>2021-11-14T14:15:03Z</time>
+<keywords>行者骑行软件</keywords>
+<trk>
+<name>行者骑行软件</name>
+<type>CYCLING</type>
+<trkseg>
+<trkpt lat="40.166899" lon="115.910153">
+<ele>808.0</ele>
+<time>2021-11-14T14:15:03Z</time></trkpt>
+<trkpt lat="40.166872" lon="115.910023">
+<ele>784.9</ele>
+<time>2021-11-14T14:15:05Z</time></trkpt>
+<trkpt lat="40.166843" lon="115.909889">
+<ele>770.0</ele>
+<time>2021-11-14T14:15:07Z</time></trkpt>
+<trkpt lat="40.166829" lon="115.909757">
+<ele>760.5</ele>
+<time>2021-11-14T14:15:09Z</time></trkpt>
+<trkpt lat="40.16681" lon="115.909621">
+<ele>754.3</ele>
+<time>2021-11-14T14:15:11Z</time></trkpt>
+<trkpt lat="40.166784" lon="115.909494">
+<ele>750.3</ele>
+<time>2021-11-14T14:15:13Z</time></trkpt>
+<trkpt lat="40.166759" lon="115.909367">
+<ele>747.7</ele>
+<time>2021-11-14T14:15:15Z</time></trkpt>
+<trkpt lat="40.166736" lon="115.909243">
+<ele>745.9</ele>
+<time>2021-11-14T14:15:17Z</time></trkpt>
+<trkpt lat="40.16672" lon="115.909118">
+<ele>744.6</ele>
+<time>2021-11-14T14:15:19Z</time></trkpt>
+<trkpt lat="40.166693" lon="115.908984">
+<ele>743.8</ele>
+<time>2021-11-14T14:15:21Z</time></trkpt>
+<trkpt lat="40.166673" lon="115.90884">
+<ele>743.1</ele>
+<time>2021-11-14T14:15:23Z</time></trkpt>
+<trkpt lat="40.166651" lon="115.908692">
+<ele>742.5</ele>
+<time>2021-11-14T14:15:25Z</time></trkpt>
+<trkpt lat="40.166629" lon="115.908541">
+<ele>742.0</ele>
+<time>2021-11-14T14:15:27Z</time></trkpt>
+<trkpt lat="40.166602" lon="115.908392">
+<ele>741.6</ele>
+<time>2021-11-14T14:15:29Z</time></trkpt>
+<trkpt lat="40.166571" lon="115.908251">
+<ele>741.3</ele>
+<time>2021-11-14T14:15:31Z</time></trkpt>
+<trkpt lat="40.166549" lon="115.908113">
+<ele>740.8</ele>
+<time>2021-11-14T14:15:33Z</time></trkpt>
+<trkpt lat="40.155873" lon="115.875309">
+<ele>728.4</ele>
+<time>2021-11-14T14:22:45Z</time></trkpt>
+<trkpt lat="40.151141" lon="115.874655">
+<ele>700.9</ele>
+<time>2021-11-14T14:26:37Z</time></trkpt>
+<trkpt lat="40.15106" lon="115.874669">
+<ele>692.6</ele>
+<time>2021-11-14T14:26:39Z</time></trkpt>
+<trkpt lat="40.150982" lon="115.874681">
+<ele>687.3</ele>
+<time>2021-11-14T14:26:41Z</time></trkpt></trkseg></trk></gpx>

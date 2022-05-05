@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>黑鸟单车</name>
+    <type>CYCLING</type>
+    <trkseg>
+      <trkpt lat="42.16072" lon="127.884544">
+        <ele>1037.0</ele>
+        <time>2018-11-18T20:58:01Z</time>
+      </trkpt>
+      <trkpt lat="42.16072" lon="127.884544">
+        <ele>1037.0</ele>
+        <time>2018-11-18T20:58:02Z</time>
+      </trkpt>
+      <trkpt lat="42.16072" lon="127.884544">
+        <ele>1037.0</ele>
+        <time>2018-11-18T20:58:03Z</time>
+      </trkpt>
+      <trkpt lat="42.16072" lon="127.884544">
+        <ele>1037.0</ele>
+        <time>2018-11-18T20:58:04Z</time>
+      </trkpt>
+      <trkpt lat="42.16072" lon="127.884544">
+        <ele>1037.0</ele>
+        <time>2018-11-18T20:58:05Z</time>
+      </trkpt>
+      <trkpt lat="42.16072" lon="127.884544">
+        <ele>1037.0</ele>
+        <time>2018-11-18T20:58:06Z</time>
+      </trkpt>
+      <trkpt lat="42.16072" lon="127.884544">
+        <ele>1037.0</ele>
+        <time>2018-11-18T20:58:07Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

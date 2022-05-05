@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>黑鸟单车</name>
+    <type>CYCLING</type>
+    <trkseg>
+      <trkpt lat="40.07231" lon="116.34434">
+        <ele>47.0</ele>
+        <time>2022-01-18T21:23:33Z</time>
+      </trkpt>
+      <trkpt lat="40.07251" lon="116.34434">
+        <ele>46.0</ele>
+        <time>2022-01-18T21:23:43Z</time>
+      </trkpt>
+      <trkpt lat="40.07283" lon="116.34439">
+        <ele>37.0</ele>
+        <time>2022-01-18T21:23:53Z</time>
+      </trkpt>
+      <trkpt lat="40.07313" lon="116.34445">
+        <ele>38.0</ele>
+        <time>2022-01-18T21:24:03Z</time>
+      </trkpt>
+      <trkpt lat="40.07323" lon="116.34423">
+        <ele>38.0</ele>
+        <time>2022-01-18T21:24:13Z</time>
+      </trkpt>
+      <trkpt lat="40.07321" lon="116.34388">
+        <ele>41.0</ele>
+        <time>2022-01-18T21:24:23Z</time>
+      </trkpt>
+      <trkpt lat="40.07319" lon="116.34351">
+        <ele>41.0</ele>
+        <time>2022-01-18T21:24:33Z</time>
+      </trkpt>
+      <trkpt lat="40.0732" lon="116.34316">
+        <ele>38.0</ele>
+        <time>2022-01-18T21:24:43Z</time>
+      </trkpt>
+      <trkpt lat="40.07318" lon="116.3428">
+        <ele>37.0</ele>
+        <time>2022-01-18T21:24:53Z</time>
+      </trkpt>
+      <trkpt lat="40.07316" lon="116.34244">
+        <ele>35.0</ele>
+        <time>2022-01-18T21:25:03Z</time>
+      </trkpt>
+      <trkpt lat="40.07307" lon="116.34228">
+        <ele>37.0</ele>
+        <time>2022-01-18T21:25:13Z</time>
+      </trkpt>
+      <trkpt lat="40.0728" lon="116.3423">
+        <ele>39.0</ele>
+        <time>2022-01-18T21:25:23Z</time>
+      </trkpt>
+      <trkpt lat="40.07256" lon="116.3423">
+        <ele>36.0</ele>
+        <time>2022-01-18T21:25:33Z</time>
+      </trkpt>
+      <trkpt lat="40.0723" lon="116.34232">
+        <ele>35.0</ele>
+        <time>2022-01-18T21:25:43Z</time>
+      </trkpt>
+      <trkpt lat="40.07204" lon="116.34229">
+        <ele>34.0</ele>
+        <time>2022-01-18T21:25:53Z</time>
+      </trkpt>
+      <trkpt lat="40.07191" lon="116.34247">
+        <ele>33.0</ele>
+        <time>2022-01-18T21:26:03Z</time>
+      </trkpt>
+      <trkpt lat="40.07198" lon="116.34279">
+        <ele>35.0</ele>
+        <time>2022-01-18T21:26:13Z</time>
+      </trkpt>
+      <trkpt lat="40.07201" lon="116.34314">
+        <ele>39.0</ele>
+        <time>2022-01-18T21:26:23Z</time>
+      </trkpt>
+      <trkpt lat="40.07204" lon="116.34346">
+        <ele>38.0</ele>
+        <time>2022-01-18T21:26:33Z</time>
+      </trkpt>
+      <trkpt lat="40.07206" lon="116.34383">
+        <ele>37.0</ele>
+        <time>2022-01-18T21:26:43Z</time>
+      </trkpt>
+      <trkpt lat="40.07209" lon="116.34416">
+        <ele>38.0</ele>
+        <time>2022-01-18T21:26:53Z</time>
+      </trkpt>
+      <trkpt lat="40.07218" lon="116.34442">
+        <ele>37.0</ele>
+        <time>2022-01-18T21:27:03Z</time>
+      </trkpt>
+      <trkpt lat="40.07239" lon="116.34439">
+        <ele>36.0</ele>
+        <time>2022-01-18T21:27:13Z</time>
+      </trkpt>
+      <trkpt lat="40.07249" lon="116.34439">
+        <ele>38.0</ele>
+        <time>2022-01-18T21:27:23Z</time>
+      </trkpt>
+      <trkpt lat="40.0727" lon="116.34438">
+        <ele>39.0</ele>
+        <time>2022-01-18T21:27:33Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

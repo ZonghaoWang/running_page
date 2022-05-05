@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from codoon</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="40.00452" lon="116.32568">
+        <ele>41.8</ele>
+        <time>2014-05-05T13:31:00Z</time>
+      </trkpt>
+      <trkpt lat="40.0044" lon="116.3257">
+        <ele>41.4</ele>
+        <time>2014-05-05T13:31:05Z</time>
+      </trkpt>
+      <trkpt lat="40.00426" lon="116.32572">
+        <ele>41.1</ele>
+        <time>2014-05-05T13:31:10Z</time>
+      </trkpt>
+      <trkpt lat="40.00412" lon="116.32572">
+        <ele>41.6</ele>
+        <time>2014-05-05T13:31:15Z</time>
+      </trkpt>
+      <trkpt lat="40.004" lon="116.32574">
+        <ele>41.9</ele>
+        <time>2014-05-05T13:31:20Z</time>
+      </trkpt>
+      <trkpt lat="40.00387" lon="116.32583">
+        <ele>41.9</ele>
+        <time>2014-05-05T13:31:25Z</time>
+      </trkpt>
+      <trkpt lat="40.00377" lon="116.32598">
+        <ele>41.7</ele>
+        <time>2014-05-05T13:31:30Z</time>
+      </trkpt>
+      <trkpt lat="40.00373" lon="116.32618">
+        <ele>40.9</ele>
+        <time>2014-05-05T13:31:35Z</time>
+      </trkpt>
+      <trkpt lat="40.00377" lon="116.32637">
+        <ele>42.3</ele>
+        <time>2014-05-05T13:31:40Z</time>
+      </trkpt>
+      <trkpt lat="40.0039" lon="116.32656">
+        <ele>44.4</ele>
+        <time>2014-05-05T13:31:44Z</time>
+      </trkpt>
+      <trkpt lat="40.00406" lon="116.32662">
+        <ele>44.1</ele>
+        <time>2014-05-05T13:31:49Z</time>
+      </trkpt>
+      <trkpt lat="40.0042" lon="116.32663">
+        <ele>40.2</ele>
+        <time>2014-05-05T13:31:54Z</time>
+      </trkpt>
+      <trkpt lat="40.00435" lon="116.32662">
+        <ele>42</ele>
+        <time>2014-05-05T13:31:59Z</time>
+      </trkpt>
+      <trkpt lat="40.00452" lon="116.32659">
+        <ele>42</ele>
+        <time>2014-05-05T13:32:05Z</time>
+      </trkpt>
+      <trkpt lat="40.00467" lon="116.32658">
+        <ele>47.3</ele>
+        <time>2014-05-05T13:32:10Z</time>
+      </trkpt>
+      <trkpt lat="40.00479" lon="116.32657">
+        <ele>49.8</ele>
+        <time>2014-05-05T13:32:15Z</time>
+      </trkpt>
+      <trkpt lat="40.00493" lon="116.32656">
+        <ele>48.7</ele>
+        <time>2014-05-05T13:32:20Z</time>
+      </trkpt>
+      <trkpt lat="40.00504" lon="116.32648">
+        <ele>48.1</ele>
+        <time>2014-05-05T13:32:25Z</time>
+      </trkpt>
+      <trkpt lat="40.00513" lon="116.32634">
+        <ele>48.8</ele>
+        <time>2014-05-05T13:32:30Z</time>
+      </trkpt>
+      <trkpt lat="40.00516" lon="116.32621">
+        <ele>47.1</ele>
+        <time>2014-05-05T13:32:35Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

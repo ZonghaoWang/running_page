@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from codoon</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="22.59146481485" lon="113.96762426997199">
+        <ele>59.7</ele>
+        <time>2013-12-18T13:26:23Z</time>
+      </trkpt>
+      <trkpt lat="22.59068481485" lon="113.966604269972">
+        <ele>-29.5</ele>
+        <time>2013-12-18T13:27:47Z</time>
+      </trkpt>
+      <trkpt lat="22.59045481485" lon="113.967404269972">
+        <ele>17.8</ele>
+        <time>2013-12-18T13:28:13Z</time>
+      </trkpt>
+      <trkpt lat="22.59123481485" lon="113.967584269972">
+        <ele>28.9</ele>
+        <time>2013-12-18T13:28:53Z</time>
+      </trkpt>
+      <trkpt lat="22.590374814849998" lon="113.96717426997199">
+        <ele>-1.6</ele>
+        <time>2013-12-18T13:30:42Z</time>
+      </trkpt>
+      <trkpt lat="22.59064481485" lon="113.96756426997199">
+        <ele>7.6</ele>
+        <time>2013-12-18T13:30:59Z</time>
+      </trkpt>
+      <trkpt lat="22.59095481485" lon="113.967634269972">
+        <ele>14.1</ele>
+        <time>2013-12-18T13:31:10Z</time>
+      </trkpt>
+      <trkpt lat="22.59200481485" lon="113.96744426997199">
+        <ele>-59.9</ele>
+        <time>2013-12-18T13:31:48Z</time>
+      </trkpt>
+      <trkpt lat="22.59062481485" lon="113.96613426997199">
+        <ele>-228.8</ele>
+        <time>2013-12-18T13:33:06Z</time>
+      </trkpt>
+      <trkpt lat="22.59041481485" lon="113.967284269972">
+        <ele>30.7</ele>
+        <time>2013-12-18T13:33:24Z</time>
+      </trkpt>
+      <trkpt lat="22.59158481485" lon="113.967544269972">
+        <ele>16.3</ele>
+        <time>2013-12-18T13:34:25Z</time>
+      </trkpt>
+      <trkpt lat="22.59064481485" lon="113.966284269972">
+        <ele>-209.60001</ele>
+        <time>2013-12-18T13:35:52Z</time>
+      </trkpt>
+      <trkpt lat="22.59043481485" lon="113.96739426997199">
+        <ele>28.7</ele>
+        <time>2013-12-18T13:36:32Z</time>
+      </trkpt>
+      <trkpt lat="22.590654814849998" lon="113.96761426997199">
+        <ele>36.4</ele>
+        <time>2013-12-18T13:36:54Z</time>
+      </trkpt>
+      <trkpt lat="22.59105481485" lon="113.967824269972">
+        <ele>24</ele>
+        <time>2013-12-18T13:37:32Z</time>
+      </trkpt>
+      <trkpt lat="22.59128481485" lon="113.967854269972">
+        <ele>50.4</ele>
+        <time>2013-12-18T13:37:53Z</time>
+      </trkpt>
+      <trkpt lat="22.59161481485" lon="113.967774269972">
+        <ele>-15.1</ele>
+        <time>2013-12-18T13:38:12Z</time>
+      </trkpt>
+      <trkpt lat="22.59188481485" lon="113.968134269972">
+        <ele>129.89999</ele>
+        <time>2013-12-18T13:38:43Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

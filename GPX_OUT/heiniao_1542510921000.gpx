@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>黑鸟单车</name>
+    <type>CYCLING</type>
+    <trkseg>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:21Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:22Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:23Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:24Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:25Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:26Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:27Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:28Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:29Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:30Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:31Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:32Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:33Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:34Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:35Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:36Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:37Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:38Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:39Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:40Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:41Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

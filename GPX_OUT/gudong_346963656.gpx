@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from codoon</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="40.0718024" lon="116.336101">
+        <ele>30.44599</ele>
+        <time>2021-12-29T12:05:17Z</time>
+      </trkpt>
+      <trkpt lat="40.0717647" lon="116.336104">
+        <ele>29.37</ele>
+        <time>2021-12-29T12:05:19Z</time>
+      </trkpt>
+      <trkpt lat="40.0712541" lon="116.3381518">
+        <ele>31.19599</ele>
+        <time>2021-12-29T12:07:00Z</time>
+      </trkpt>
+      <trkpt lat="40.0712948" lon="116.3381785">
+        <ele>42.7</ele>
+        <time>2021-12-29T12:07:02Z</time>
+      </trkpt>
+      <trkpt lat="40.0712677" lon="116.3382129">
+        <ele>40.118</ele>
+        <time>2021-12-29T12:07:04Z</time>
+      </trkpt>
+      <trkpt lat="40.0713158" lon="116.3382072">
+        <ele>37.47999</ele>
+        <time>2021-12-29T12:07:06Z</time>
+      </trkpt>
+      <trkpt lat="40.0713659" lon="116.3382077">
+        <ele>35.68099</ele>
+        <time>2021-12-29T12:07:08Z</time>
+      </trkpt>
+      <trkpt lat="40.0714182" lon="116.338211">
+        <ele>34.45399</ele>
+        <time>2021-12-29T12:07:10Z</time>
+      </trkpt>
+      <trkpt lat="40.0718854" lon="116.3380068">
+        <ele>72.174</ele>
+        <time>2021-12-29T12:07:43Z</time>
+      </trkpt>
+      <trkpt lat="40.0718429" lon="116.3379987">
+        <ele>50.15299</ele>
+        <time>2021-12-29T12:07:45Z</time>
+      </trkpt>
+      <trkpt lat="40.0718457" lon="116.3379719">
+        <ele>49.57699</ele>
+        <time>2021-12-29T12:07:47Z</time>
+      </trkpt>
+      <trkpt lat="40.0718492" lon="116.3379443">
+        <ele>50.548</ele>
+        <time>2021-12-29T12:07:49Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

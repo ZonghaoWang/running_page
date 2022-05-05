@@ -1,0 +1,23 @@
+httpx==0.15.4
+gpxpy==1.4.2
+stravalib
+appdirs>=1.4.0
+svgwrite>=1.1.9
+colour
+s2sphere
+arrow
+geopy
+polyline
+sqlalchemy
+timezonefinder
+pyyaml
+aiofiles
+cloudscraper==1.2.58
+bs4
+pycrypto
+html.parser
+aiofiles
+lxml
+# if you need to import kml file
+fastkml
+eviltransform

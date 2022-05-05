@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from codoon</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="22.591274200489995" lon="113.967577426661">
+        <ele>24.9</ele>
+        <time>2013-10-10T15:29:52Z</time>
+      </trkpt>
+      <trkpt lat="22.591764200489994" lon="113.967487426661">
+        <ele>36.3</ele>
+        <time>2013-10-10T15:30:10Z</time>
+      </trkpt>
+      <trkpt lat="22.591444200489995" lon="113.966787426661">
+        <ele>22.4</ele>
+        <time>2013-10-10T15:30:46Z</time>
+      </trkpt>
+      <trkpt lat="22.590784200489995" lon="113.966787426661">
+        <ele>25.9</ele>
+        <time>2013-10-10T15:31:10Z</time>
+      </trkpt>
+      <trkpt lat="22.590424200489995" lon="113.967127426661">
+        <ele>27</ele>
+        <time>2013-10-10T15:31:28Z</time>
+      </trkpt>
+      <trkpt lat="22.590634200489994" lon="113.967517426661">
+        <ele>24.1</ele>
+        <time>2013-10-10T15:31:46Z</time>
+      </trkpt>
+      <trkpt lat="22.591054200489996" lon="113.967617426661">
+        <ele>24.8</ele>
+        <time>2013-10-10T15:32:04Z</time>
+      </trkpt>
+      <trkpt lat="22.591504200489997" lon="113.967587426661">
+        <ele>23.9</ele>
+        <time>2013-10-10T15:32:22Z</time>
+      </trkpt>
+      <trkpt lat="22.591924200489995" lon="113.967177426661">
+        <ele>9.5</ele>
+        <time>2013-10-10T15:32:47Z</time>
+      </trkpt>
+      <trkpt lat="22.591174200489995" lon="113.96680742666099">
+        <ele>22.8</ele>
+        <time>2013-10-10T15:33:22Z</time>
+      </trkpt>
+      <trkpt lat="22.590724200489994" lon="113.96680742666099">
+        <ele>25.9</ele>
+        <time>2013-10-10T15:33:40Z</time>
+      </trkpt>
+      <trkpt lat="22.590444200489994" lon="113.967147426661">
+        <ele>24.6</ele>
+        <time>2013-10-10T15:33:59Z</time>
+      </trkpt>
+      <trkpt lat="22.590674200489996" lon="113.967547426661">
+        <ele>21.5</ele>
+        <time>2013-10-10T15:34:16Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

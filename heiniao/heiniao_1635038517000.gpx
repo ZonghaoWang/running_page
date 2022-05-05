@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>黑鸟单车</name>
+    <type>CYCLING</type>
+    <trkseg>
+      <trkpt lat="40.07449" lon="116.33973">
+        <ele>53.0</ele>
+        <time>2021-10-24T09:21:57Z</time>
+      </trkpt>
+      <trkpt lat="40.0751" lon="116.33977">
+        <ele>33.0</ele>
+        <time>2021-10-24T09:22:20Z</time>
+      </trkpt>
+      <trkpt lat="40.09523" lon="116.2987">
+        <ele>32.0</ele>
+        <time>2021-10-24T09:40:44Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from codoon</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="22.59170563271" lon="113.967480310191">
+        <ele>-23.4</ele>
+        <time>2013-11-24T15:16:09Z</time>
+      </trkpt>
+      <trkpt lat="22.59116563271" lon="113.966870310191">
+        <ele>7.1</ele>
+        <time>2013-11-24T15:16:54Z</time>
+      </trkpt>
+      <trkpt lat="22.590795632709998" lon="113.96680031019099">
+        <ele>43.4</ele>
+        <time>2013-11-24T15:17:10Z</time>
+      </trkpt>
+      <trkpt lat="22.590425632709998" lon="113.967090310191">
+        <ele>22</ele>
+        <time>2013-11-24T15:17:28Z</time>
+      </trkpt>
+      <trkpt lat="22.59059563271" lon="113.967540310191">
+        <ele>36.1</ele>
+        <time>2013-11-24T15:17:46Z</time>
+      </trkpt>
+      <trkpt lat="22.59133563271" lon="113.96761031019099">
+        <ele>57.4</ele>
+        <time>2013-11-24T15:18:16Z</time>
+      </trkpt>
+      <trkpt lat="22.59170563271" lon="113.966380310191">
+        <ele>270.79999</ele>
+        <time>2013-11-24T15:19:27Z</time>
+      </trkpt>
+      <trkpt lat="22.590425632709998" lon="113.967100310191">
+        <ele>43.7</ele>
+        <time>2013-11-24T15:19:53Z</time>
+      </trkpt>
+      <trkpt lat="22.590825632709997" lon="113.967630310191">
+        <ele>59.9</ele>
+        <time>2013-11-24T15:20:22Z</time>
+      </trkpt>
+      <trkpt lat="22.591385632709997" lon="113.967620310191">
+        <ele>51.3</ele>
+        <time>2013-11-24T15:20:42Z</time>
+      </trkpt>
+      <trkpt lat="22.59169563271" lon="113.966900310191">
+        <ele>5.4</ele>
+        <time>2013-11-24T15:21:23Z</time>
+      </trkpt>
+      <trkpt lat="22.59078563271" lon="113.96685031019099">
+        <ele>7.2</ele>
+        <time>2013-11-24T15:21:55Z</time>
+      </trkpt>
+      <trkpt lat="22.590435632709998" lon="113.967080310191">
+        <ele>52.3</ele>
+        <time>2013-11-24T15:22:17Z</time>
+      </trkpt>
+      <trkpt lat="22.591305632709997" lon="113.966810310191">
+        <ele>22.3</ele>
+        <time>2013-11-24T15:24:10Z</time>
+      </trkpt>
+      <trkpt lat="22.591765632709997" lon="113.967490310191">
+        <ele>23.7</ele>
+        <time>2013-11-24T15:31:33Z</time>
+      </trkpt>
+      <trkpt lat="22.591825632709998" lon="113.967000310191">
+        <ele>22.3</ele>
+        <time>2013-11-24T15:31:54Z</time>
+      </trkpt>
+      <trkpt lat="22.591305632709997" lon="113.966790310191">
+        <ele>2.9</ele>
+        <time>2013-11-24T15:32:19Z</time>
+      </trkpt>
+      <trkpt lat="22.59075563271" lon="113.966790310191">
+        <ele>21</ele>
+        <time>2013-11-24T15:32:42Z</time>
+      </trkpt>
+      <trkpt lat="22.590425632709998" lon="113.967060310191">
+        <ele>19.5</ele>
+        <time>2013-11-24T15:33:16Z</time>
+      </trkpt>
+      <trkpt lat="22.590445632709997" lon="113.967420310191">
+        <ele>13.6</ele>
+        <time>2013-11-24T15:33:46Z</time>
+      </trkpt>
+      <trkpt lat="22.59067563271" lon="113.967540310191">
+        <ele>19</ele>
+        <time>2013-11-24T15:34:05Z</time>
+      </trkpt>
+      <trkpt lat="22.590915632709997" lon="113.967750310191">
+        <ele>25.8</ele>
+        <time>2013-11-24T15:34:28Z</time>
+      </trkpt>
+      <trkpt lat="22.591575632709997" lon="113.96770031019099">
+        <ele>26.4</ele>
+        <time>2013-11-24T15:35:21Z</time>
+      </trkpt>
+      <trkpt lat="22.592135632709997" lon="113.967670310191">
+        <ele>12.9</ele>
+        <time>2013-11-24T15:36:09Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from codoon</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="40.070846" lon="116.3361711">
+        <ele>41.886</ele>
+        <time>2022-01-27T13:04:48Z</time>
+      </trkpt>
+      <trkpt lat="40.0705871" lon="116.3382416">
+        <ele>44.463</ele>
+        <time>2022-01-27T13:06:18Z</time>
+      </trkpt>
+      <trkpt lat="40.0706704" lon="116.3382314">
+        <ele>42.10699</ele>
+        <time>2022-01-27T13:06:22Z</time>
+      </trkpt>
+      <trkpt lat="40.0707173" lon="116.3382433">
+        <ele>41.651</ele>
+        <time>2022-01-27T13:06:23Z</time>
+      </trkpt>
+      <trkpt lat="40.0707175" lon="116.3382434">
+        <ele>41.31</ele>
+        <time>2022-01-27T13:06:25Z</time>
+      </trkpt>
+      <trkpt lat="40.0718499" lon="116.3363079">
+        <ele>28.906</ele>
+        <time>2022-01-27T13:42:10Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>黑鸟单车</name>
+    <type>CYCLING</type>
+    <trkseg>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:49Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:50Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:51Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:52Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:53Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:54Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:55Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:56Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:57Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:58Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:15:59Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:00Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:01Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:02Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:03Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:04Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:05Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:06Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:07Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:08Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:09Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:10Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:11Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:12Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:13Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:14Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:15Z</time>
+      </trkpt>
+      <trkpt lat="39.87752" lon="116.02798">
+        <ele>177.0</ele>
+        <time>2018-11-18T11:16:16Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

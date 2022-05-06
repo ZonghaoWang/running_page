@@ -91,7 +91,6 @@ jobs:
           python scripts/garmin_sync.py ${{ secrets.GRAMIN_CN_EMAIL }} ${{ secrets.GARMIN_CN_PASSWORD }} --is-cn
 
       - name: Run sync Only GPX script
-        if: env.RUN_TYPE == 'only_gpx'
         run: |
           python scripts/gpx_sync.py
           echo "only gpx"

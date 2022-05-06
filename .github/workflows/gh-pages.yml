@@ -18,7 +18,7 @@ on:
       - src/**.json
 
   schedule:
-    - cron: "5,15,25,35,45,55 0 * * *"
+    - cron: "5 0 * * *"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -65,7 +65,7 @@ jobs:
           # Git branch where site will be deployed
           target_branch: gh-pages
           # Create incremental commit instead of doing push force
-          keep_history: false
+          keep_history: true
           # Build directory to deploy
           build_dir: public
           # Write the given domain name to the CNAME file

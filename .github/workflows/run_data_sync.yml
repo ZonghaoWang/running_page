@@ -76,6 +76,7 @@ jobs:
         if: env.RUN_TYPE == 'strava'
         run: |
           python scripts/strava_sync.py ${{ secrets.STRAVA_CLIENT_ID }} ${{ secrets.STRAVA_CLIENT_SECRET }} ${{ secrets.STRAVA_CLIENT_REFRESH_TOKEN }}
+          echo "strava"
 
       - name: Run sync Garmin script
         if: env.RUN_TYPE == 'garmin'
@@ -93,6 +94,7 @@ jobs:
         if: env.RUN_TYPE == 'only_gpx'
         run: |
           python scripts/gpx_sync.py
+          echo "only gpx"
 
       - name: Run sync Strava to Garmin(Run with strava(or others upload to strava) data backup in Garmin)
         if: env.RUN_TYPE == 'strava_to_garmin'

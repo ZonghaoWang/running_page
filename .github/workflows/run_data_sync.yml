@@ -19,13 +19,13 @@ on:
 
 env:
   # please change to your own config.
-  RUN_TYPE: pass # support strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava/strava_to_garmin/strava_to_garmin_cn, Please change the 'pass' it to your own
-  ATHLETE: ben_29
+  RUN_TYPE: strava # support strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava/strava_to_garmin/strava_to_garmin_cn, Please change the 'pass' it to your own
+  ATHLETE: jierui
   TITLE: Workouts
   MIN_GRID_DISTANCE: 10 # change min distance here
-  TITLE_GRID: Over 10km Workouts
-  GITHUB_NAME: ben_29
-  GITHUB_EMAIL: ben_29@live.com
+  TITLE_GRID: Over 1km Workouts
+  GITHUB_NAME: zonghao
+  GITHUB_EMAIL: jierui124@gmail.com
 
 jobs:
   sync:

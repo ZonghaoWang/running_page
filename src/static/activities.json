@@ -3658,5 +3658,20 @@
 "average_speed": 2.381,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 7267192683,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 10001.0,
+"moving_time": "1:06:58",
+"type": "Run",
+"start_date": "2022-06-06 22:43:25+00:00",
+"start_date_local": "2022-06-07 06:43:25",
+"location_country": "Hong Kong",
+"summary_polyline": "ofosFg~}dUtAy@fAkA?y@Ke@aAuBAYc@cB?Qg@gAK?k@l@WDyAt@Q\\Ar@Xn@Pt@Bx@VtAf@n@Tt@XJ`@?rA_A`Ac@H[I_AUm@ASWiAa@{@[[[{@Ks@W?w@r@o@\\qAl@F~@Rb@Z`B|@lC@b@\\j@XD`@Ob@e@~A{@TYHe@g@cBw@eBCUSa@A]a@gAE_@Q?oBtAa@Lo@r@CZDd@X~@BVHPHf@Xx@XxAP`@v@Rj@Q~BcBNm@Ee@c@uAEY[e@Ma@O{A?a@MQIe@SA_Af@eAv@q@X[h@A\\b@lBNXH|@d@rABf@j@h@RFb@G^_@jB_AVaAKq@[q@Me@QS_@sBe@w@?m@IIS?e@P}@d@i@`@GJUHS^@z@Rr@Hj@d@vABn@d@|AZXz@MvCgBHOGiA_@sA_@e@Qk@WqACu@Os@IISHc@Zc@NyBbBMl@Lv@f@zAPhAHL`@dBPRfALhCiBTk@Ag@_@yAA[[m@Ok@SkA[aAQYg@R}@t@o@Pa@TWbAd@~Bx@dD\\|@^VR?rAm@v@q@XMP]Eg@WeAQWMo@Yq@k@wCO[OAkAv@eBt@QZEf@^dABj@d@`BHx@Rz@|@p@h@OtCcBJk@WkAe@aAc@u@?i@a@wBSg@KEmAt@iAj@_@ZMb@GB?b@^dAb@nBH`Af@fAt@h@x@Yj@YlAaAHOBa@Em@ScAq@sASsBo@oAULi@POLm@PmAz@IRGj@Xn@T`Br@bCBZJPPHZ`@NG\\BdAq@bAaAJWBo@My@MQOq@m@}AEa@c@oBECS@gAv@sBhAMNI\\?R`@z@Fd@j@nBFt@Pp@d@f@JFn@GZYhAo@`@OVo@Cs@iAoDQoAWgAO]KG_BdAaAb@q@h@GLBp@`@xBf@dBr@fBV^dAQx@a@fA_ANk@OwAu@wAOiAWw@QgAQ[]Xk@LUVw@Zm@d@OVCZB^N|@l@xBPlAt@hANJb@Bx@[l@s@t@a@L_@?m@m@wBUa@kAiFs@f@_@\\wAr@c@`@GXB`@Pr@^hBJpAl@`B`@`@dAOt@u@dAo@NWDa@CWmAkDCk@u@eDGIGNeAr@",
+"average_heartrate": 150.0,
+"average_speed": 2.489,
+"source": "strava",
+"streak": 3
 }
 ]

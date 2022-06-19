@@ -3838,5 +3838,20 @@
 "average_speed": 2.439,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 7326462877,
+"name": "\u6668\u95f4\u9a91\u884c",
+"distance": 112502.0,
+"moving_time": "4:57:57",
+"type": "Ride",
+"start_date": "2022-06-17 21:33:44+00:00",
+"start_date_local": "2022-06-18 05:33:44",
+"location_country": "Hong Kong",
+"summary_polyline": "mxnsFk_~dUr@~BybF~nDvExb@tg@nzBhUb[bc@jz@zr@vnDvI|vAy@lo@LfgJ_GxQbGzKpEziDpQcDnIuHlLi@fGiGfUc`@`FbInBjb@St\\t{@lQxQlQlGdLvGfAd`@lRzGnAtNcBxS`GtQwElKjAhVmKzMqMlU_I~c@hSjJhQpF|PpG~ElIvOrNrJ`DdHsX`d@wSxb@kEf]nCzTlI|QtOxIlb@x@vKuCrJbKzAfQcIhGiCvL~DjL`Ft\\wJbLwCbM{FuAgKbCmJaGgFhFgEqE_RYuE}CiAmErCmHaBsJwCfAiFhVuHtEoC_EjFuRcG_MuBdAg@`UoAxA_N}FoNtKgGuOeKiCkB|BoAbVuGtPyB\\yPaIqCFkMfQ_MbEwG|ToDlEkAaA~B_HKwE_FpAiIeCuJlAmDmEwGXwLyI_MpOsNZ`LxCnNqJbAJj@jDgBhE~A|Hq@fHs@Dp@wEqA{CmGd@xE`BsAdL~@jDiDeK{MFsEvIgFuFmJf@eHfCcAhLmDWsDvEeKrCwM|@kF_CxC~G|BhAQfAiSqNmFRkCeE_ImCaIcIoC_GcB{QoBbJ_FQkGgD@fFqBSkW~TaDaB[bEoFz@sIiFmSgEoBx@bIxINdEvH`FmDlEAhIbB~D|D{AnA`CfCaAbEvLtHeAhEnFfHuF~CkFyCpAQ~CuGnFoEuFmHrAmEeMsCv@uA{BqD|A}AkDDmIlDaFwHeFO}DgIkIlB_AhTzE|H~ElF{@h@cE|C`BpNkNlKcEEqFbGrDtByAnBvBrBqJ`B|RtCpFtHhH`IjCbC`E|FUdSfOb@gAgHqJrE|BnNgAfKmCtD{EvDP|@aLxGaClJc@dFvF`FcJdME|DzKcA{DnAuLuEwAhG[jAhCo@pF`AOl@}HaBaIhBoEs@wCcA_@sB`EqJzDqLoCpPw@xKyNnLhJtG]~ChEdKiA~Ox@HbEgChHtAxAvDgFzF{SdFwDnFc@|CgHzHqHtX`IdHkRjAeUrBgCpJtC|FrOtOwKrMbGlA}AXkTnB{A~FdMiFfR\\rChB~@rHsEjGoWxBu@rAnBPxFqCnIz@zDdFfDtRV|DtEtFqFnI~F`LaCvFrAvCsMzJyL}CcKqAmPuDkLtCoLxH}FaBkQmKoKwI`D{a@YaRcKqHcPwCiVjEi]tT{c@xXyb@iFmIkN_J}HqOqG_FkQob@}d@qSoV|I_NtMoUpJoKcAwPrEuTqGcNjB_JkBy^eRaG_A}FqKaR{Qqf@yIySuFPuZg@yR{AkR_FqGaUf`@}GtGoLl@oJhIaMpBuDwiCFu]rF{IcGaKf@{eLqIgsAas@qoDse@u~@qRmVkh@}xByCe\\`dCiiB`MoFdWuTrfAev@",
+"average_heartrate": 135.6,
+"average_speed": 6.293,
+"source": "strava",
+"streak": 1
 }
 ]

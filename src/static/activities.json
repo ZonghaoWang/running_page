@@ -4018,5 +4018,20 @@
 "average_speed": 3.664,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 7382381658,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 845.0,
+"moving_time": "0:08:01",
+"type": "Run",
+"start_date": "2022-06-28 10:29:40+00:00",
+"start_date_local": "2022-06-28 18:29:40",
+"location_country": "Hong Kong",
+"summary_polyline": "isksFw}sdUa@hAJCb@BB@GPARHH?LDBLZJFNBt@CLGRD`@Eh@B\\JKZQLEDCA[@QEIMEQCmA",
+"average_heartrate": 127.9,
+"average_speed": 1.757,
+"source": "strava",
+"streak": 3
 }
 ]

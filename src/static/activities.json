@@ -4078,5 +4078,20 @@
 "average_speed": 4.815,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 7400133069,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 6614.0,
+"moving_time": "0:24:40",
+"type": "Ride",
+"start_date": "2022-07-01 11:30:47+00:00",
+"start_date_local": "2022-07-01 19:30:47",
+"location_country": "Hong Kong",
+"summary_polyline": "cpksFq{sdU@]CKDYAICSKUAUMq@MkAEs@Be@BYHWBEB?Da@c@aLcAmNs@iLKw@MwBIw@EyAEQAa@EQCu@QcBMi@]uDa@aDS_CI}A@QSeAWuBGq@Ie@SgBU{CYiCAo@y@iIe@aB[u@g@o@c@]i@YKCUKw@Ok@?]DIBi@JI?MGUmA?{@Y}B[sDIg@MSKKIAQ@i@^UHUN[HUJG]IQ]mBgA{HQaAy@aG{@yEMgAeA{GUc@YkAa@e@Ec@Wg@Yw@U_AQsAUs@Os@Wm@Y{@GUE_@a@qAe@cBIQk@yBOYe@oBo@qBYm@_@wAY{@cAoDGIAMeE_MSu@}@_CsCoIwAsDcB{Ei@wA_@{@e@{@qAmDy@}C[_Aa@eBo@cC?MNOhC}A|@gAFMdBgB`@e@`Ay@z@m@RI|@u@|@o@RIVSb@SDGWc@UYEKKCCQUGIBMFaAz@g@`@}A~@m@d@m@`@}@\\WFs@V_A^aAh@gAt@M@c@mAKq@g@aAc@_BYm@CIMWESYk@q@gBEQBOBDCAKDCAa@NQRYLYRe@Pu@h@YJi@^QFMJIBMJ{@h@UHMIQm@Ms@?OBA@@BTF?ABID",
+"average_heartrate": 100.1,
+"average_speed": 4.469,
+"source": "strava",
+"streak": 2
 }
 ]

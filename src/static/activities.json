@@ -4958,7 +4958,7 @@
 "start_date": "2022-09-13 23:31:53+00:00",
 "start_date_local": "2022-09-14 07:31:53",
 "location_country": "China",
-"summary_polyline": null,
+"summary_polyline": "",
 "average_heartrate": 189.9,
 "average_speed": 3.022,
 "source": "strava",

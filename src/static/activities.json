@@ -5728,5 +5728,20 @@
 "average_speed": 2.842,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 8161393594,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 2712.0,
+"moving_time": "0:16:48",
+"type": "Run",
+"start_date": "2022-11-24 10:34:26+00:00",
+"start_date_local": "2022-11-24 18:34:26",
+"location_country": "\u6d17\u8f66, \u56db\u62e8\u5b50\u5317\u8def, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100085, \u4e2d\u56fd",
+"summary_polyline": "cimsFms`eU?w@Mu@?s@YaBKuAGYAo@_@gC?OGS?SOm@?O^OVBRILQHWDGPANFR@VId@[JEL?HCRAXWDGh@_@Z]JEn@MN@NCPOJGx@CXOFSD]My@Oi@E}@Be@Ja@^iAFa@HWFGHCn@?XKTQNY?KUqAISMIOEc@@WIIIU[Cc@Oo@IMGCQ?EBW`@CTEDWAc@[SGm@EiANs@QSDQHIJGVBZAZSb@MRGFUHQ?KBSBQHOb@Mt@IR[RC?SJKLETBh@Fp@HXd@j@\\|@L^N|@?PDJ?XCtAHd@@XFLDRD?BD`@ND?PGn@_@p@KRILIf@e@FOFGp@a@n@CLIh@M\\?FDH?HELKDW@WSiAKYEu@Du@`@kA",
+"average_heartrate": 157.5,
+"average_speed": 2.69,
+"source": "strava",
+"streak": 4
 }
 ]

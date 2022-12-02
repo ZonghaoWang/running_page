@@ -5788,5 +5788,20 @@
 "average_speed": 3.128,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8192810050,
+"name": "\u508d\u665a\u8dd1\u6b65",
+"distance": 1224.0,
+"moving_time": "0:06:53",
+"type": "Run",
+"start_date": "2022-12-01 10:36:58+00:00",
+"start_date_local": "2022-12-01 18:36:58",
+"location_country": "\u6d17\u8f66, \u56db\u62e8\u5b50\u5317\u8def, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100085, \u4e2d\u56fd",
+"summary_polyline": "qimsFks`eUAgAMw@@a@Mq@GiAK}@Ck@Ow@EaAIYGc@Ao@Ia@@[FEr@BNIL[NMNA\\Fx@_@RQr@EPOj@u@VQRSH?TId@GDELABE\\Ih@?JBJENQB[MgAMe@Em@@S?UJm@Pm@",
+"average_heartrate": 141.1,
+"average_speed": 2.964,
+"source": "strava",
+"streak": 2
 }
 ]
